@@ -12,7 +12,6 @@ Please replace the following `{dataset_name}` with the actual dataset name.
 ```bash
 conda create -n MOST python=3.10
 conda activate MOST
-pip install -r requirements.txt
 ```
 
 ### Data
