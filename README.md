@@ -3,6 +3,8 @@
 This is the official implementation for our paper:"MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data"
 ---
 
+![Algorithm Framework](docs/framework.jpg)
+
 ## Experiments
 
 Please replace the following `{dataset_name}` with the actual dataset name.
