@@ -1,4 +1,4 @@
-# MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data
+# MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
 
 ![Algorithm Framework](docs/framework.jpg)
 
